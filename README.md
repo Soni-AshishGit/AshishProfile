@@ -4,7 +4,7 @@
       <td width="160">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation" />
       </td>
-      <td align="left">
+      <td align="center">
         <h1>Ashish Kumar Soni</h1>
         <p>
           <a href="https://linkedin.com/in/mashish-kumar-aa8a22183" target="_blank">
