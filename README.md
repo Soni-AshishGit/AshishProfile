@@ -44,23 +44,35 @@ I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean A
 
 ### 💻 My Technical Arsenal
 
-<div align="left">
-  <b>Languages & Core</b><br />
+---
+
+<h3 align="center">💻 My Technical Arsenal</h3>
+
+<div align="center">
+  <p><b>Languages & Core</b></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="45" alt="dotnet" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="js" />
-  <br /><br />
-  <b>Frontend & Cross-Platform</b><br />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp" />
+  
+  <br />
+
+  <p><b>Frontend & Cross-Platform</b></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" alt="react" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="html" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="css" />
-  <br /><br />
-  <b>Cloud & Infrastructure</b><br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="45" alt="azure" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind" />
+
+  <br />
+
+  <p><b>Cloud & Infrastructure</b></p>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="45" alt="azure" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
   <img width="10" />
@@ -68,6 +80,8 @@ I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean A
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="45" alt="docker" />
 </div>
+
+---
 
 ---
 
