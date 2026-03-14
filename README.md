@@ -31,7 +31,6 @@
 
 ---
 
-### 🚀 Engineering Philosophy
 I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean Architecture** and **MVVM**, I focus on bridging the gap between sophisticated backend logic and high-fidelity user experiences.
 
 - 💻 Currently spearheading scalable solutions as a **Dotnet Developer** at Winlancer Technologies.
@@ -46,7 +45,6 @@ I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean A
 
 ---
 
-<h3 align="center">💻 My Technical Arsenal</h3>
 
 <div align="center">
   <p><b>Languages & Core</b></p>
