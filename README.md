@@ -30,13 +30,13 @@
 ###
 
 <p align="left">
-[cite_start]I'm a results-driven <b>Cross-Platform .NET Developer</b> based in Indore, India. [cite_start]I specialize in building high-quality, scalable mobile and web applications using Clean Architecture and MVVM[cite: 4, 5].<br><br>
+I'm a results-driven <b>Cross-Platform .NET Developer</b> based in Indore, India.I specialize in building high-quality, scalable mobile and web applications using Clean Architecture and MVVM.<br><br>
 
-- [cite_start]🚀 I’m working as a <b>Dotnet Developer</b> at Winlancer Technologies[cite: 8, 9].
-- [cite_start]🏆 Awarded <b>"Employee of the Year"</b> for exceptional dedication and rapid career growth.
-- [cite_start]🎓 Completed <b>Master of Computer Applications (MCA)</b> with a focus on software development[cite: 28, 32].
-- [cite_start]📚 I'm currently mastering <b>Advanced .NET MAUI & Blazor</b> patterns[cite: 49].
-- [cite_start]⚡ In my free time, I <b>compose music on my guitar</b> or explore AI-powered simulations[cite: 53, 54, 55].
+- 🚀 I’m working as a <b>Dotnet Developer</b> at Winlancer Technologies.
+- 🏆 Awarded <b>"Employee of the Year"</b> for exceptional dedication and rapid career growth.
+- 🎓 Completed <b>Master of Computer Applications (MCA)</b> with a focus on software development.
+- 📚 I'm currently mastering <b>Advanced .NET MAUI & Blazor</b> patterns.
+- ⚡ In my free time, I <b>compose music on my guitar</b> or explore AI-powered simulations.
 </p>
 
 ###
@@ -79,6 +79,6 @@
 
 - **Campus Connect**: A social ecosystem with E2E encrypted messaging and real-time Socket.io chat.
 - **CommZone**: Transport utility for riders with SignalR tracking and commercial ledgers.
-- [cite_start]**Modern Portfolio**: High-performance showcase featuring **Glassmorphism** and dark themes[cite: 24].
+- **Modern Portfolio**: High-performance showcase featuring **Glassmorphism** and dark themes.
 
 ---
