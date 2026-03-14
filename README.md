@@ -26,7 +26,7 @@
 I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean Architecture** and **MVVM**, I focus on bridging the gap between sophisticated backend logic and high-fidelity user experiences.
 
 - 💻 Currently spearheading scalable solutions as a **Dotnet Developer** at Winlancer Technologies.
-- 🏆 Honored as **"Employee of the Year"** (TagX) and recognized as a **Dedicated Team Leader** (Winlancers).
+- 🏆 Honored as **"Employee of the Year"** and recognized as a **Dedicated Team Leader** for delivering project excellence.
 - 🎓 **Master of Computer Applications (MCA)** graduate with a specialization in software development.
 - 🛠️ Deep-diving into **Advanced .NET MAUI & Blazor Hybrid** to redefine mobile-web convergence.
 - 🎸 Beyond the IDE, I'm often **composing original music** or tinkering with **AI-driven simulations**.
@@ -62,15 +62,32 @@ I am a results-driven **Cross-Platform .NET Developer**. By leveraging **Clean A
 
 ---
 
-### 🛠️ Key Project Spotlights
+### 🛠️ Independent Projects
 *Original architectures focused on real-time connectivity and performance.*
 
 * **Campus Connect** – An integrated social ecosystem featuring end-to-end encrypted messaging and real-time interaction via Socket.io.
 * **CommZone** – A comprehensive logistics and rider management suite utilizing SignalR for live tracking and commercial ledger automation.
-* **Modern Portfolio Suite** – A high-performance Vercel-hosted showcase utilizing **Glassmorphism** and advanced UI design principles.
+* **Modern Portfolio Suite** – A high-performance Vercel-hosted showcase utilizing Glassmorphism and advanced UI design principles.
 
 ---
 
+### 🌟 Professional Projects (Anonymized)
+- **Enterprise Logistics Suite**: Managed a real-time tracking and management system for large-scale logistics operations.
+- **FinTech Auction Platform**: Engineered a high-concurrency web-based bidding and auction system.
+- **E-Commerce Delivery Ecosystem**: Built a full-stack grocery delivery application optimized for the US market.
+- **Healthcare Management System**: Developed a comprehensive web platform for medical facility operations.
+- **AI Simulation Engine**: Created an interactive game environment featuring real-time visualization and role-based mechanics.
+
+---
+
+### 📫 Connect with me:
+- 📧 **Email:** [soniashishkumar164@gmail.com](mailto:soniashishkumar164@gmail.com)
+- 💼 **LinkedIn:** [soniashishkumar164](https://linkedin.com/in/mashish-kumar-aa8a22183)
+- ✍️ **Blog:** I share insights on coding and technology.
+
 <div align="center">
+  <br />
+  <a href="https://github.com/soniashish11"><img src="https://img.shields.io/github/followers/soniashish11?label=Follow&style=social" /></a>
+  <br /><br />
   <i>"Writing clean, scalable code to deliver high-quality cross-platform experiences."</i>
 </div>
