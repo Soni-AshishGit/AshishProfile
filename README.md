@@ -1,24 +1,33 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
+  <table border="0">
+    <tr>
+      <td width="160">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation" />
+      </td>
+      <td align="left">
+        <h1>Ashish Kumar Soni</h1>
+        <p>
+          <a href="https://linkedin.com/in/mashish-kumar-aa8a22183" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+          </a>
+          <a href="https://github.com/soniashish11" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio logo" />
+          </a>
+        </p>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=soniashish11.soniashish11&" alt="visitors" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <h1 align="center">Ashish Kumar Soni</h1>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/mashish-kumar-aa8a22183" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
-    </a>
-    <a href="https://github.com/soniashish11" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio logo" />
-    </a>
-  </p>
+---
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=soniashish11.soniashish11&" alt="visitors" />
-
-  <br /><br />
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soniashish11&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=soniashish11&theme=dark&hide_border=true" height="180" alt="streak" />
 </div>
+
+---
 
 ---
 
